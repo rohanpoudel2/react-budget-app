@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-budget-app/static/css/main.92ca72ce.css",
+    "main.js": "/react-budget-app/static/js/main.9d45ca65.js",
+    "index.html": "/react-budget-app/index.html",
+    "main.92ca72ce.css.map": "/react-budget-app/static/css/main.92ca72ce.css.map",
+    "main.9d45ca65.js.map": "/react-budget-app/static/js/main.9d45ca65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ca72ce.css",
+    "static/js/main.9d45ca65.js"
+  ]
+}
