@@ -1,0 +1,23 @@
+#budget-wrapper input {
+  display: none;
+}
+
+#save {
+  display: none;
+}
+
+.show-save input {
+  display: block !important;
+}
+
+.show-save span {
+  display: none !important;
+}
+
+.show-save #save {
+  display: block;
+}
+
+.show-save #edit {
+  display: none;
+}
